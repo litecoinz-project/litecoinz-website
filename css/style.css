@@ -251,12 +251,38 @@ p.lead {
     border-radius: 18px;
     padding: 15px;
 }
+.ltz-ex {
+    background: #FFF;
+    border: solid 2px #ffca39;
+    border-radius: 18px;
+    padding: 15px;
+}
+.ltz-ex img{
+    width: 100%;
+}
 .ltz-dw:hover {
     border: solid 2px #123d6d;
     background: #e9ecef;
 }
+.ltz-ex:hover {
+    border: solid 2px #123d6d;
+    background: #e9ecef;
+}
+.ltz-ch {
+    background: #FFF;
+    border: solid 2px #ffca39;
+    border-radius: 18px;
+    padding: 15px;
+}
+
 .ltz-h4 {
     color: #fff !important;
+}
+@media (min-width: 1200px)
+.col-ex {
+    -ms-flex: 0 0 33.333333% !important;
+    flex: 0 0 33.333333% !important;
+    max-width: 33.333333% !important;
 }
 @media (max-width:767px) {
     h1 {
