@@ -26,4 +26,10 @@
   <priority>1.00</priority>
 </url>
 
+<url>
+  <loc>https://insight.litecoinz.org/</loc>
+  <lastmod>2018-08-05T04:19:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
 </urlset>
