@@ -1,2 +1,2 @@
 # litecoinz-website
-:earth_americas: Litecoinz.info Project website
+:earth_americas: Litecoinz.org Project website
