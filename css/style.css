@@ -48,7 +48,7 @@ h5 {
     color: #123d6d;
     margin-bottom: 0.7rem;
 }
-p {
+p, ul {
     color: #959094;
     font-size: 13px;
 }
