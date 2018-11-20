@@ -12,11 +12,11 @@ body {
     position: relative;
 }
 a {
-    color: #4a1a48;
+    color: #123d6d;
 }
 a:hover,
 a:focus {
-    color: #4a1a48;
+    color: #123d6d;
     text-decoration: none !important;
 }
 h1 {
@@ -28,24 +28,24 @@ h1 {
 h2 {
     font-size: 45px;
     font-weight: 700;
-    color: #4a1a48;
+    color: #123d6d;
     letter-spacing: -1px;
     margin-bottom: 1rem;
 }
 h3 {
-    color: #4a1a48;
+    color: #123d6d;
     font-size: 33px;
     font-weight: 700;
 }
 h4 {
     font-size: 20px;
     font-weight: 700;
-    color: #4a1a48;
+    color: #123d6d;
 }
 h5 {
     font-size: 28px;
     font-weight: 700;
-    color: #4a1a48;
+    color: #123d6d;
     margin-bottom: 0.7rem;
 }
 p {
@@ -53,7 +53,7 @@ p {
     font-size: 13px;
 }
 p.lead {
-    color: #4a1a48;
+    color: #123d6d;
     margin-bottom: 2rem;
 }
 .mt-15 {
@@ -114,7 +114,7 @@ p.lead {
     margin-left: 100px !important;
 }
 .text-primary {
-    color: #4a1a48 !important;
+    color: #123d6d !important;
 }
 .light-font {
     font-weight: 300;
@@ -131,10 +131,10 @@ p.lead {
 }
 .btn-primary {
     border-radius: 3px;
-    background-image: -moz-linear-gradient( 122deg, #4a1a48 0%, #037aff 100%);
-    background-image: -webkit-linear-gradient( 122deg, #4a1a48 0%, #037aff 100%);
-    background-image: -ms-linear-gradient( 122deg, #4a1a48 0%, #037aff 100%);
-    background-image: linear-gradient( 122deg, #4a1a48 0%, #037aff 100%);
+    background-image: -moz-linear-gradient( 122deg, #123d6d 0%, #037aff 100%);
+    background-image: -webkit-linear-gradient( 122deg, #123d6d 0%, #037aff 100%);
+    background-image: -ms-linear-gradient( 122deg, #123d6d 0%, #037aff 100%);
+    background-image: linear-gradient( 122deg, #123d6d 0%, #037aff 100%);
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
     font-weight: 500;
     padding: 0.6rem 2rem;
@@ -146,7 +146,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show>.btn-primary.dropdown-toggle {
-    background-image: linear-gradient( 122deg, #037aff 0%, #4a1a48 100%);
+    background-image: linear-gradient( 122deg, #037aff 0%, #123d6d 100%);
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
     color: #FFF;
 }
@@ -156,7 +156,7 @@ p.lead {
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
     font-size: 14px;
     font-weight: 500;
-    color: #4a1a48;
+    color: #123d6d;
     margin: 0.5rem;
     padding: 0.7rem 1.6rem;
     line-height: 1.8;
@@ -261,11 +261,11 @@ p.lead {
     width: 100%;
 }
 .ltz-dw:hover {
-    border: solid 2px #4a1a48;
+    border: solid 2px #123d6d;
     background: #e9ecef;
 }
 .ltz-ex:hover {
-    border: solid 2px #4a1a48;
+    border: solid 2px #123d6d;
     background: #e9ecef;
 }
 .ltz-ch {
@@ -298,7 +298,7 @@ p.lead {
 }
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-    background-color: #4a1a48;
+    background-color: #123d6d;
     -webkit-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
@@ -322,7 +322,7 @@ font-size: 13px;
     padding-left: 12px;
     /* padding-top: 3px; */
     /* font-weight: 700; */
-    background-color: #4a1a48;
+    background-color: #123d6d;
     /* margin-bottom: 6px; */
     /* min-height: 29px; */
     padding: 7px 0 7px 11px;
@@ -371,7 +371,7 @@ header {
     height: 1000px
 }
 .blockchain {
-    background-color: #ff58f8;
+    background-color: #007bff;
     width: 100%;
     height: 1000px;
 }
@@ -465,7 +465,7 @@ header {
 .col-spec h5 {
     font-size: 20px;
     font-weight: 700;
-    color: #4a1a48;
+    color: #123d6d;
     margin-bottom: 0.7rem;
 }
 @media (min-width: 770px){
@@ -544,7 +544,10 @@ header {
     opacity: 0.7;
 }
 .bg-gradient {
-	background-color: #2f102e;
+    background-image: -moz-linear-gradient( 135deg, rgb(18, 61, 109) 0%, rgba(0, 81, 171) 100%);
+    background-image: -webkit-linear-gradient( 135deg, rgb(18, 61, 109) 0%, rgba(0, 81, 171) 100%);
+    background-image: -ms-linear-gradient( 135deg, rgb(18, 61, 109) 0%, rgba(0, 81, 171) 100%);
+    background-image: linear-gradient( 135deg, rgb(18, 61, 109) 0%, rgba(0, 81, 171) 100%);
 }
 .bg-gradient-donate {
     background-image: -moz-linear-gradient( #14802d 0%, #ffffff 100%);
@@ -729,7 +732,7 @@ header {
     background: #FFF;
     border-top-width: 3px;
     border-color: #ce75b4 #f8f9fa #FFF;
-    color: #4a1a48;
+    color: #123d6d;
 }
 .owl-carousel .owl-item img.client-img {
     width: 110px;
@@ -816,7 +819,7 @@ header {
     border-top-width: 3px;
     border-color: #ce75b4 #f8f9fa #FFF;
     box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-    color: #4a1a48;
+    color: #123d6d;
 }
 
 .card.pricing .card-head {
@@ -828,7 +831,7 @@ header {
     display: block;
     font-size: 45px;
     font-weight: 300;
-    color: #4a1a48;
+    color: #123d6d;
 }
 
 .card.pricing .card-head .price sub {
@@ -883,14 +886,14 @@ header {
 .ltz-btn {
 
     background-color: #ffca39;
-    color: #4a1a48 !important;
+    color: #123d6d !important;
     font-size: 15px;
     font-weight: 700;
     color: #111;
     font-family: cabin;
 }
 .ltz-btn a:hover{
-    color: #4a1a48;
+    color: #123d6d;
 }
 
 .ltz-pool-logos {
@@ -903,7 +906,7 @@ header {
 }
 
 .social-icons a {
-    background-color: #4a1a48;
+    background-color: #123d6d;
     box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.05);
     width: 50px;
     height: 50px;
@@ -920,7 +923,7 @@ header {
 .social-icons a:hover {
     text-decoration: none;
     background-color: #ffcb3a;
-    color: #4a1a48;
+    color: #123d6d;
 
 
 }
