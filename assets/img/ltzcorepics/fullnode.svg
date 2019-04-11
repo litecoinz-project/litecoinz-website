@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="126.294"
+   height="189.701"
+   viewBox="0 0 126.294 189.701"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="fullnode.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="751"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="1.244063"
+     inkscape:cx="59.640155"
+     inkscape:cy="106.12979"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #ffca39;
+      }
+
+      .cls-2 {
+        fill: #684d00;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g
+     id="fullnode"
+     transform="translate(0 0)">
+    <path
+       id="path6106-4-61-4"
+       class="cls-1"
+       d="M-1741.321-219.108c0-16.274-28.939-60.514-28.939-60.514s-30,44.239-30,60.514a29.474,29.474,0,0,0,29.472,29.468A29.466,29.466,0,0,0-1741.321-219.108Z"
+       transform="translate(1833.373 378.996)" />
+    <ellipse
+       id="path6102-7-7-0"
+       class="cls-2"
+       cx="43.149"
+       cy="12.629"
+       rx="43.149"
+       ry="12.629"
+       transform="translate(18.661 60.486)" />
+    <path
+       id="path6099-7-4-6"
+       class="cls-1"
+       d="M-1741.321-256.309c0,16.275-28.939,60.514-28.939,60.514s-30-44.24-30-60.514a29.474,29.474,0,0,1,29.472-29.468A29.466,29.466,0,0,1-1741.321-256.309Z"
+       transform="translate(1833.373 286.798)" />
+    <path
+       id="path6120-2-8-9"
+       class="cls-3"
+       d="M-1771.248-285.833c-9.263-.1-18.339,4.936-23.619,12.462a30.136,30.136,0,0,0,.608,35.374,29.887,29.887,0,0,0,18.987,11.377c6.777.633,13.992.154,19.849-3.664,9.453-5.5,15.66-16.413,14.726-27.423-.271-15.057-14.1-28.589-29.241-28.122-.434-.01-.872,0-1.31,0Zm1.086,5.3a23.9,23.9,0,0,1,18.121,8.487,24.1,24.1,0,0,1,5.12,22.445,35.892,35.892,0,0,1-2.465,6.145l-29.312.085,4.19-9.443-5.527,1.22,1.042-2.291,5.443-1.186.574-1.05-5.643,1.264,1.07-2.45,5.613-1.13,1.959-4.566-6.377.029s-7.324,16.5-10.807,24.321c11.174.114,22.511.039,33.682.154-8.974,9.137-25.489,9.185-34.154-.424-7.84-7.259-9.443-20-4.16-29.2a6.9,6.9,0,0,0,.441-.655c9.517.224,19.1.237,28.684.331l-3.633,8.718,5.422-1.168-.961,2.322-5.552,1.218-.346,1.031,5.426-1.242-1.042,2.394-5.487,1.231-2.136,4.739,6.339.109s7.3-16.435,10.879-24.463c-11.2-.114-22.545-.034-33.747-.145a24.632,24.632,0,0,1,17.344-6.827Z"
+       transform="translate(1832.669 285.84)"
+       style="fill:#333333" />
+    <path
+       id="ellipse6104-5-8-9"
+       class="cls-4"
+       d="M-1721.188-282.071l-.74,1.483c14.539,2.031,24.579,6.373,24.579,11.4,0,6.976-19.313,12.631-43.148,12.631s-43.155-5.655-43.149-12.631c0-5.239,10.9-9.733,26.426-11.644l-.615-1.139c-25.768,4.044-44.5,16.248-44.5,30.676,0,17.728,28.273,32.1,63.147,32.1s63.147-14.372,63.147-32.1C-1676.036-265.845-1695.077-278.134-1721.188-282.071Z"
+       transform="translate(1802.33 342.299)"
+       style="fill:#333333" />
+    <g
+       id="Gruppe_108"
+       data-name="Gruppe 108"
+       transform="translate(32.724 129.772)">
+      <path
+         id="path5647-4-9"
+         class="cls-4"
+         d="M-388.247-52.419l8.179,8.179-8.179,18.456-8.179-18.456Z"
+         transform="translate(418.152 68.834)"
+         style="fill:#333333" />
+      <path
+         id="Differenzmenge_31"
+         data-name="Differenzmenge 31"
+         class="cls-4"
+         d="M9.35,59.931,3.607,46.973l3.46-3.46L9.35,48.665l2.283-5.152,3.459,3.46L9.35,59.93h0Zm3.717-44.948h0L9.35,11.265,5.633,14.983,0,9.35,9.35,0,18.7,9.35l-5.633,5.633Z"
+         transform="translate(20.547 0)"
+         style="fill:#333333" />
+      <path
+         id="path5653-1-4"
+         class="cls-4"
+         d="M-1714.556-261.34a29.917,29.917,0,0,0-26.022,29.63,29.916,29.916,0,0,0,28.324,29.859l-2.116-4.773a25.389,25.389,0,0,1-21.68-25.085,25.389,25.389,0,0,1,14.994-23.13Zm7.92.02,6.508,6.508-.019.019a25.388,25.388,0,0,1,14.876,23.083,25.388,25.388,0,0,1-21.568,25.08l-2.1,4.75a29.917,29.917,0,0,0,28.2-29.83,29.916,29.916,0,0,0-25.891-29.61Zm-20.76,12.82,6.312,6.312Z"
+         transform="translate(1740.578 261.443)"
+         style="fill:#333333" />
+    </g>
+  </g>
+</svg>

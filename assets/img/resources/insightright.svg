@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="103.793"
+   height="103.471"
+   viewBox="0 0 103.793 103.471"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="insightright.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="2.2808323"
+     inkscape:cx="1.2570909"
+     inkscape:cy="50.858627"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:#dcddde;}</style>
+  </defs>
+  <g
+     transform="translate(0 0)"
+     id="g10"
+     style="fill:#35153a;fill-opacity:1">
+    <path
+       class="a"
+       d="M152.544,195.408a42.293,42.293,0,1,1-22.837,77.84c-.074.081-.141.164-.218.241l-23.227,23.227a7.344,7.344,0,0,1-10.409,0l-2.646-2.646a7.344,7.344,0,0,1,0-10.409l23.23-23.227c.095-.095.2-.18.3-.269a42.262,42.262,0,0,1,35.811-64.757Zm0,11.167A31.126,31.126,0,1,0,183.668,237.7a31.125,31.125,0,0,0-31.124-31.127Z"
+       transform="translate(-91.045 -195.408)"
+       id="path6"
+       style="fill:#35153a;fill-opacity:1" />
+    <path
+       class="a"
+       d="M117.082,196.354A25.544,25.544,0,0,1,129.2,199.43a4.822,4.822,0,1,1-4.214,8.659l-.02.029a15.842,15.842,0,0,0-23,8.91l-.034-.015a4.824,4.824,0,1,1-8.737-4.057,25.556,25.556,0,0,1,23.885-16.608Z"
+       transform="translate(-55.583 -180.119)"
+       id="path8"
+       style="fill:#35153a;fill-opacity:1" />
+  </g>
+</svg>
