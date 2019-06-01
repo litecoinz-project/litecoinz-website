@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="531.921"
+   height="154.039"
+   viewBox="0 0 531.921 154.039"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="LitecoinZLogo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="0.80275078"
+     inkscape:cx="282.333"
+     inkscape:cy="137.86283"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        font-size: 120px;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        font-family: FuturaBT-Medium, Futura Md BT;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #8b8b8b;
+      }
+
+      .cls-2 {
+        stroke-width: 0.036px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #ffca39;
+      }
+
+      .cls-3 {
+        stroke-width: 0.036px;
+        font-size: 125px;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        font-size: 25px;
+      }
+    </style>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter860"
+       x="-0.027671722"
+       width="1.0553434"
+       y="-0.021188525"
+       height="1.042377">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.78887939"
+         id="feGaussianBlur862" />
+    </filter>
+  </defs>
+  <g
+     id="g873"
+     inkscape:export-xdpi="95"
+     inkscape:export-ydpi="95">
+    <path
+       id="path1503-4"
+       class="cls-2"
+       d="m 196.193,34.046 a 6.506,6.506 0 0 0 -4.7,1.938 6.289,6.289 0 0 0 -1.938,4.6 6.615,6.615 0 0 0 6.639,6.639 6.322,6.322 0 0 0 4.651,-1.89 6.546,6.546 0 0 0 1.889,-4.749 6.455,6.455 0 0 0 -6.541,-6.541 z m 214.757,0 a 6.5,6.5 0 0 0 -4.7,1.938 6.288,6.288 0 0 0 -1.938,4.6 6.615,6.615 0 0 0 6.637,6.639 6.326,6.326 0 0 0 4.653,-1.89 6.548,6.548 0 0 0 1.891,-4.749 6.457,6.457 0 0 0 -6.543,-6.541 z m -266.314,1.4 v 5.938 a 77.645,77.645 0 0 1 5.459,26.933 80.536,80.536 0 0 1 -5.459,36.14 v 1.937 h 37.31 V 96.07 H 156.168 V 35.451 Z m 74.283,7.608 v 17.4 h -8.044 v 9.207 h 8.043 v 36.73 h 10.516 v -36.73 h 8.043 v -9.207 h -8.043 v -17.4 z m 48.312,15.8 q -10.612,0 -17.4,6.978 -6.735,6.93 -6.734,17.735 0,11.242 6.54,17.977 6.54,6.735 17.591,6.735 a 25.808,25.808 0 0 0 13.421,-3.391 26.842,26.842 0 0 0 9.595,-10.322 l -8.867,-4.943 a 17.581,17.581 0 0 1 -5.912,6.883 15.652,15.652 0 0 1 -8.48,2.13 12.107,12.107 0 0 1 -9.158,-3.586 Q 254.387,91.416 254,84.972 h 36.73 v -1.988 q 0,-11.436 -6.2,-17.783 -6.2,-6.347 -17.3,-6.345 z m 56.6,0 q -11.387,0 -18.461,6.831 -7.027,6.784 -7.026,17.882 0,10.95 6.784,17.832 6.832,6.881 17.637,6.88 a 28.838,28.838 0 0 0 7.027,-0.824 24.474,24.474 0 0 0 6.251,-2.471 V 92.871 a 15.009,15.009 0 0 1 -5.282,4.362 15.937,15.937 0 0 1 -6.831,1.4 q -6.881,0 -10.805,-4.07 -3.877,-4.118 -3.877,-11.29 0,-6.88 3.877,-11.049 a 13.421,13.421 0 0 1 10.321,-4.166 17.029,17.029 0 0 1 6.929,1.4 16.388,16.388 0 0 1 5.669,4.07 V 61.714 a 21.059,21.059 0 0 0 -5.62,-2.132 28.005,28.005 0 0 0 -6.59,-0.727 z m 44.872,0 a 25.72,25.72 0 0 0 -9.644,1.841 25.021,25.021 0 0 0 -13.674,13.278 24.818,24.818 0 0 0 0,19 24.869,24.869 0 0 0 5.525,8.044 24.548,24.548 0 0 0 8.189,5.38 25.562,25.562 0 0 0 19.285,0 25.921,25.921 0 0 0 8.383,-5.476 23.044,23.044 0 0 0 5.428,-7.9 24.223,24.223 0 0 0 1.888,-9.546 23.729,23.729 0 0 0 -1.888,-9.352 24.343,24.343 0 0 0 -5.524,-8 24.707,24.707 0 0 0 -8.238,-5.426 25.734,25.734 0 0 0 -9.739,-1.841 z m 90.176,0 a 22.577,22.577 0 0 0 -10.369,2.18 19.819,19.819 0 0 0 -7.414,6.929 v -7.51 h -9.885 v 45.937 h 10.514 V 85.459 a 54.93,54.93 0 0 1 0.435,-8.238 10.711,10.711 0 0 1 1.648,-4.264 10.9,10.9 0 0 1 4.506,-3.828 15.418,15.418 0 0 1 6.59,-1.358 q 5.621,0 7.8,3.005 2.229,2.957 2.23,12.017 v 18.1 l 10.612,-17.951 v -4.413 a 49.146,49.146 0 0 0 -0.534,-8.819 13.14,13.14 0 0 0 -1.744,-4.409 12.515,12.515 0 0 0 -5.671,-4.8 20.818,20.818 0 0 0 -8.723,-1.648 z m -267.915,1.6 v 45.937 h 10.511 V 60.455 Z m 214.758,0 v 45.937 h 10.516 V 60.455 Z M 267.428,67.77 q 5.476,0 8.626,2.617 a 11.035,11.035 0 0 1 3.778,7.511 h -25.153 a 13.527,13.527 0 0 1 4.41,-7.608 12.946,12.946 0 0 1 8.334,-2.521 z m 101.371,0.534 a 13.194,13.194 0 0 1 10.078,4.458 16.226,16.226 0 0 1 -0.048,21.661 13.208,13.208 0 0 1 -10.03,4.409 13.362,13.362 0 0 1 -10.08,-4.409 15.412,15.412 0 0 1 -4.118,-10.855 15.239,15.239 0 0 1 4.118,-10.806 13.3,13.3 0 0 1 10.076,-4.457 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#8b8b8b;stroke-width:0.036px" />
+    <text
+       style="font-weight:500;font-size:125px;font-family:FuturaBT-Medium, 'Futura Md BT';opacity:0.54599998;fill:#000000;fill-opacity:1;stroke:#8b8b8b;stroke-width:0.036px;filter:url(#filter860)"
+       class="cls-3"
+       data-name="Z"
+       id="text854"
+       x="457.21899"
+       y="127.00299">
+      <tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan852"
+         y="127.00299"
+         x="457.21899">Z</tspan>
+    </text>
+    <text
+       y="125.003"
+       x="457.21899"
+       id="Z-2"
+       data-name="Z"
+       class="cls-3"
+       style="font-weight:500;font-size:125px;font-family:FuturaBT-Medium, 'Futura Md BT';fill:#ffca39;stroke:#8b8b8b;stroke-width:0.036px">
+      <tspan
+         x="457.21899"
+         y="125.003"
+         id="tspan11">Z</tspan>
+    </text>
+    <g
+       style="fill:#4d4d4d"
+       id="Gruppe_113"
+       data-name="Gruppe 113"
+       transform="translate(14.710146,1.201)">
+      <text
+         id="Designed_for_the_Future"
+         data-name="Designed for the Future"
+         class="cls-5"
+         transform="translate(159.509,136.858)"
+         style="font-weight:500;font-size:25px;font-family:FuturaBT-Medium, 'Futura Md BT';fill:#cccccc;">
+        <tspan
+           style="fill:#cccccc;"
+           x="0"
+           y="0"
+           id="tspan15">Designed for the Future</tspan>
+      </text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path826"
+       d="m 144.636,35.446 v 70.948 h 37.31 V 96.07 H 156.168 V 35.451 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
