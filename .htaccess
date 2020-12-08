@@ -1,4 +1,15 @@
+## REWRITE
+Options +FollowSymLinks
+
 RewriteEngine on
+
+## 301 Redirect Old File
+Redirect 301 /blacked/indexBlack.html /index.html
+Redirect 301 /blacked/networkBlack.html /links.html
+Redirect 301 /blacked/roadmapBlack.html /roadmap.html
+Redirect 301 /blacked/indexBlack /index
+Redirect 301 /blacked/networkBlack /links
+Redirect 301 /blacked/roadmapBlack /roadmap
 
 RewriteRule ^index\.html$ / [R=301,L]
 RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
@@ -8,6 +19,15 @@ RewriteRule ^ /%1 [NC,L,R]
 
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+
+## Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+## Prevent directory listings
+Options -Indexes
 
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
